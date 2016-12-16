@@ -1,0 +1,25 @@
+{
+  "name": "nodeangularseed",
+  "description": "basic node and angular based app with no dependancy on angular only used express for node side",
+  "main": "server.js",
+  "authors": [
+    "labn36"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "angular",
+    "seed"
+  ],
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.0"
+  }
+}

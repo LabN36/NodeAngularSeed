@@ -1,0 +1,19 @@
+{
+  "name": "nodeangularseed",
+  "version": "1.0.0",
+  "description": "basic node and angular based app with no dependancy on angular only used express for node side",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "angular",
+    "seed"
+  ],
+  "author": "labn36",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
